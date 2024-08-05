@@ -25,7 +25,7 @@ role: Graduate student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Rutgers
-    url: 'https://www.instagram.com/dcyangd'
+    url: ''
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -33,15 +33,18 @@ profiles:
   - icon: at-symbol
     url: 'mailto:dcyangd@gmail.com'
     label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/dcyangd
+    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/dcyangd
+    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/dcyangd
+    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/dcyangd
-
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
